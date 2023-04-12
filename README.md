@@ -17,10 +17,12 @@
 <h3 align="left">Habilidades Tecnicas:</h3>
 
 <p align="left"> 
-<a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img src="https://www.php.net/images/logos/php-logo.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://laravel.com/docs/8.x" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://docs.flutter.dev/" target="_blank"> <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://dart.dev/" target="_blank"> <img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://d4.alternativeto.net/cnrpabIDnL_4WuLxEAzO-DW8EtSZ6sHE5U22CoC_FlE/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9teXNxbC13b3JrYmVuY2hfNzg0NTEucG5n.png" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/es-es/sql-server/" target="_blank"> <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.apachefriends.org/es/index.html" target="_blank"> <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="css3" width="40" height="40"/> </a> 
