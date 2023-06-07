@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<h3 align="left">Redes sociales:</h3>
+- 🔗 <a href = "https://jorgefigueroa626.github.io/soyfigueroa/">Portafolio</a>
+  
+
 <h3 align="left">Conocimiento de Lenguajes - Framework  - librerias:</h3>
 
 <p align="left"> 
