@@ -48,8 +48,4 @@
 </p>
 
 
-<h3 align="left">Estadisticas:</h3>
-<hr/>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeFigueroa626&show_icons=true&locale=en&layout=compact" alt="JorgeFigueroa626" /></p>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=JorgeFigueroa626&show_icons=true&locale=en" alt="JorgeFigueroa626" /></p>
-<hr/>
+
