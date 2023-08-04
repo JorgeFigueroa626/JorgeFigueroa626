@@ -54,11 +54,11 @@
 | Rank |  Projects in Angular and Flutter           |                       Demo                                           |
 |-----:|--------------------------------------------|----------------------------------------------------------------------|
 |     *| **********  ANGULAR  **********            | https://angular.io/
-|     1| Sistema para Repostes de Ventas            | https://github.com/JorgeFigueroa626/Sistema_Venta_Angular.git        |
-|     2| Sistema para Carrito de Comprar - API      | https://github.com/JorgeFigueroa626/Carrito_Compra_Angular.git       |
-|     3| Sistema de Mapas - GPS - API               | https://github.com/JorgeFigueroa626/app-mapas-angular.git            |
-|     4| Sistema para de Post de Artuculos - API    | https://github.com/JorgeFigueroa626/app-Angular-Post.git             |
-|     5| Sistema para Registro de Usuarios          | https://github.com/JorgeFigueroa626/app-dashboard.git                |
+|     1| Sistema para Carrito de Compras - API      | https://github.com/JorgeFigueroa626/Carrito_Compra_Angular.git       |
+|     2| Sistema para Ubicacion de Mapas - API      | https://github.com/JorgeFigueroa626/app-mapas-angular.git            |
+|     3| Sistema para de Post de Artuculos - API    | https://github.com/JorgeFigueroa626/app-Angular-Post.git             |
+|     4| Sistema para Registro de Usuarios          | https://github.com/JorgeFigueroa626/app-dashboard.git                |
+|     5| Sistema para Reportes de Ventas            | https://github.com/JorgeFigueroa626/Sistema_Venta_Angular.git        |
 |     *|            **********  FLUTTER  ********** | https://docs.flutter.dev/                                            |
 |     1| Aplicacion de Ventas de Autos              | https://github.com/JorgeFigueroa626/flutter_venta_autos.git          |
 |     2| Aplicacion de Reportes de Articulos - API  | https://github.com/JorgeFigueroa626/flutter_articulo.git             |
