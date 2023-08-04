@@ -47,5 +47,29 @@
 
 </p>
 
+### Presentación de Proyectos desarrollados
+
+> Hola, aquí podemos ver proyecto desarollados en Angular y Flutter.
+
+| Rank |  Projects in Angular and Flutter           |                       Demo                                           |
+|-----:|--------------------------------------------|----------------------------------------------------------------------|
+|     *| **********  ANGULAR  **********            | https://angular.io/
+|     1| Sistema para Repostes de Ventas            | https://github.com/JorgeFigueroa626/Sistema_Venta_Angular.git        |
+|     2| Sistema para Carrito de Comprar - API      | https://github.com/JorgeFigueroa626/Carrito_Compra_Angular.git       |
+|     3| Sistema de Mapas - GPS - API               | https://github.com/JorgeFigueroa626/app-mapas-angular.git            |
+|     4| Sistema para de Post de Artuculos - API    | https://github.com/JorgeFigueroa626/app-Angular-Post.git             |
+|     5| Sistema para Registro de Usuarios          | https://github.com/JorgeFigueroa626/app-dashboard.git                |
+|     *|            **********  FLUTTER  ********** | https://docs.flutter.dev/                                            |
+|     1| Aplicacion de Ventas de Autos              | https://github.com/JorgeFigueroa626/flutter_venta_autos.git          |
+|     2| Aplicacion de Reportes de Articulos - API  | https://github.com/JorgeFigueroa626/flutter_articulo.git             |
+|     3| Aplicacion Responsive sobre Blog Producto  | https://github.com/JorgeFigueroa626/flutter_pagina_web.git           |
+|     4| Aplicacion de Post de Imagenes             | https://github.com/JorgeFigueroa626/flutter_bloc_post.git            |
+|     5| Diseño de una App sobre una Social network | https://github.com/JorgeFigueroa626/red-social_flutter.git           |
+|     6| Diseño de una App sobre Carrito de Compra  | https://github.com/JorgeFigueroa626/carrito_compra_flutter.git       |
+|     7| Aplicacion sobre una Chat de Mensajes      | https://github.com/JorgeFigueroa626/app_chat_flutter.git             |
+|     8| Aplicacion de CRUD - Firebase              | https://github.com/JorgeFigueroa626/flutter_login_crud_firebase.git  |
+|     9| Aplicacion de una calculadora de moneda    | https://github.com/JorgeFigueroa626/flutter_currency_converter.git   |
+|    10| Aplicacion de Resultados de Deportes - API | https://github.com/JorgeFigueroa626/sport_footbal_flutter.git        |
+
 
 
