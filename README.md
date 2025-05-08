@@ -14,7 +14,7 @@
 </div>
 
 <h3 align="left">Portafolio de Prueba (GIT-PAGES):</h3>
-- 🔗 <a href = "https://jorgefigueroa626.github.io/soyfigueroa/">Portafolio</a>
+- 🔗 <a href = "https://jorgefigueroa626.github.io/soyfigueroa/">Porfolio</a>
   
 
 <h3 align="left">Conocimiento de Lenguajes - Framework  - librerias:</h3>
@@ -51,26 +51,18 @@
 
 > Hola, aquí podemos ver proyecto desarollados en Angular y Flutter.
 
-| Rank |  Projects in Angular and Flutter           |                       Demo                                           |
-|-----:|--------------------------------------------|----------------------------------------------------------------------|
-|     *| **********  ANGULAR  **********            | https://angular.io/
-|     1| Sistema para Carrito de Compras - API      | https://github.com/JorgeFigueroa626/Carrito_Compra_Angular.git       |
-|     2| Sistema para Ubicacion de Mapas - API      | https://github.com/JorgeFigueroa626/app-mapas-angular.git            |
-|     3| Sistema para de Post de Artuculos - API    | https://github.com/JorgeFigueroa626/app-Angular-Post.git             |
-|     4| Sistema para Registro de Usuarios          | https://github.com/JorgeFigueroa626/app-dashboard.git                |
-|     5| Sistema para Reportes de Ventas            | https://github.com/JorgeFigueroa626/Sistema_Venta_Angular.git        |
-|     *|            **********  FLUTTER  ********** | https://docs.flutter.dev/                                            |
-|     1| Aplicacion de Ventas de Autos              | https://github.com/JorgeFigueroa626/flutter_venta_autos.git          |
-|     2| Aplicacion de Datos del Clima - API        | https://github.com/JorgeFigueroa626/datos_climas_flutter.git         |
-|     3| Aplicacion de Reportes de Articulos - API  | https://github.com/JorgeFigueroa626/flutter_articulo.git             |
-|     4| Aplicacion Responsive sobre Blog Producto  | https://github.com/JorgeFigueroa626/flutter_pagina_web.git           |
-|     5| Aplicacion de Post de Imagenes             | https://github.com/JorgeFigueroa626/flutter_bloc_post.git            |
-|     6| Diseño de una App sobre una Social network | https://github.com/JorgeFigueroa626/red-social_flutter.git           |
-|     7| Diseño de una App sobre Carrito de Compra  | https://github.com/JorgeFigueroa626/carrito_compra_flutter.git       |
-|     8| Aplicacion sobre una Chat de Mensajes      | https://github.com/JorgeFigueroa626/app_chat_flutter.git             |
-|     9| Aplicacion de CRUD - Firebase              | https://github.com/JorgeFigueroa626/flutter_login_crud_firebase.git  |
-|    10| Aplicacion de una calculadora de moneda    | https://github.com/JorgeFigueroa626/flutter_currency_converter.git   |
-|    11| Aplicacion de Resultados de Deportes - API | https://github.com/JorgeFigueroa626/sport_footbal_flutter.git        |
+| Rank |  Projectos en Java y .NET con Angular          |                       Demo                                                     |
+|-----:|------------------------------------------------|--------------------------------------------------------------------------------|
+|     *| ****  Java - .NET - Angular  ****              | https://start.spring.io/ - https://dotnet.microsoft.com/ - https://angular.io/ |
+|     1| Sistema Web E-Commerce - API                   | https://github.com/JorgeFigueroa626/appECommerce.git                           |
+|     2| Sistema Web de Rentas Autos - API              | https://github.com/JorgeFigueroa626/appCarRental.git                           |
+|     3| Sistema Web de Examenes - API                  | https://github.com/JorgeFigueroa626/appDashboard.git                           |
+|     4| Sistema Web de Registro Compras y Ventas - API | https://github.com/JorgeFigueroa626/JorgeFigueroa626.git                       |
+|     5| Sistema Web de Reportes de Ventas - API        | https://github.com/JorgeFigueroa626/JorgeFigueroa626.git                       |
+|     6| Sistema Web de Tienda Ecommerce - API          | https://github.com/JorgeFigueroa626/JorgeFigueroa626.git                       |
+|     7| Sistema Web de Mapas - GPS - API               | https://github.com/JorgeFigueroa626/app-mapas-angular.git                      |
+|     7| MAS PROYECTOS - <a href = "https://jorgefigueroa626.github.io/soyfigueroa/">Porfolio</a>                       | <a href = "https://jorgefigueroa626.github.io/soyfigueroa/">Porfolio</a>                      |
+
 
 
 
