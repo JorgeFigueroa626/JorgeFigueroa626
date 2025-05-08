@@ -57,8 +57,8 @@
 |     1| Sistema Web E-Commerce - API                   | https://github.com/JorgeFigueroa626/appECommerce.git                           |
 |     2| Sistema Web de Rentas Autos - API              | https://github.com/JorgeFigueroa626/appCarRental.git                           |
 |     3| Sistema Web de Examenes - API                  | https://github.com/JorgeFigueroa626/appDashboard.git                           |
-|     4| Sistema Web de Registro Compras y Ventas - API | https://github.com/JorgeFigueroa626/JorgeFigueroa626.git                       |
-|     5| Sistema Web de Reportes de Ventas - API        | https://github.com/JorgeFigueroa626/JorgeFigueroa626.git                       |
+|     4| Sistema Web de Registro Compras y Ventas - API | https://github.com/JorgeFigueroa626/SistemaCompraVenta.git                     |
+|     5| Sistema Web de Reportes de Ventas - API        | https://github.com/JorgeFigueroa626/Sistema_Venta_Angular.git                  |
 |     6| Sistema Web de Tienda Ecommerce - API          | https://github.com/JorgeFigueroa626/JorgeFigueroa626.git                       |
 |     7| Sistema Web de Mapas - GPS - API               | https://github.com/JorgeFigueroa626/app-mapas-angular.git                      |
 |     7| MAS PROYECTOS - <a href = "https://jorgefigueroa626.github.io/soyfigueroa/">Porfolio</a>                       | <a href = "https://jorgefigueroa626.github.io/soyfigueroa/">Porfolio</a>                      |
